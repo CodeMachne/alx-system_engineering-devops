@@ -60,7 +60,7 @@ To get started with this repository:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbangAyoma/alx-system_engineering-devops/0x09-web_infrastructure_design.git
+    git clone https://github.com/CodeMachne/alx-system_engineering-devops/0x09-web_infrastructure_design.git
     ```
 2. Navigate into the project directory:
     ```bash
@@ -82,7 +82,7 @@ Contributions are welcome! If you have any suggestions or improvements, please:
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [AbangAyoma](https://github.com/AbangAyoma)
+- **GitHub**: [CodeMachne](https://github.com/)CodeMachne)
 
 Thank you for visiting the repository, and happy learning!
 
