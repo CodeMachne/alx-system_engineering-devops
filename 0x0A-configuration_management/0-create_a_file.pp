@@ -3,6 +3,6 @@ file { '/tmp/school':
   mode    => '0744',            # File permissions
   owner   => 'www-data',        # File owner
   group   => 'www-data',        # File group
-  content => "I love Puppet\n", # Content of the file
+  content => "I love Puppet", # Content of the file
 }
 
