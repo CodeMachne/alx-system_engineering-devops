@@ -1,7 +1,7 @@
 # puppet file to terminate a process
 
-exec { 'killmenow':
-  command     => 'pkill -9 killmenow',
+exec { 'pkill_process':
+  command     => 'pkill -f killmenow',
   provider    => 'shell',
 }
 
