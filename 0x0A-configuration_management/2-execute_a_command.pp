@@ -1,6 +1,6 @@
 # puppet file to terminate a process
 
-exec { 'pkill_process':
+exec { 'pkill':
   command     => 'pkill  killmenow',
   provider    => 'shell',
 }
