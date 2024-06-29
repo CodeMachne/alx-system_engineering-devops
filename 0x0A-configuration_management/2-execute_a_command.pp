@@ -5,5 +5,6 @@ exec { 'pkill':
   path        => ['/bin', '/usr/bin'],
   onlyif      => 'pgrep killmenow',
   refreshonly => true,
+  provider    => shell,
 }
 
