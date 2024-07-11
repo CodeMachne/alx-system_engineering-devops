@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#this script install a web server called nginx on a server
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install nginx 
+sudo service nginx start
+
